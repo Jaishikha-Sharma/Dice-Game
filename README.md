@@ -1,6 +1,5 @@
+**🎲 Dice Game**
 
-🎲 Dice Game
-Overview - 
 Dice Game is an interactive game built using React JS. 
 Players select a number and roll a pair of dice. 
 If their selected number matches the rolled dice, they earn points equal to the dice number. 
