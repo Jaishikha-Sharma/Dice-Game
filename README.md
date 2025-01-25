@@ -6,6 +6,7 @@ If their selected number matches the rolled dice, they earn points equal to the 
 Incorrect guesses result in a 2-point deduction. It's simple, fun, and visually engaging!
 
 Features - 
+
 -- Select a number and roll a pair of dice.
 
 -- Earn points if your selected number matches the rolled dice number.
@@ -27,10 +28,15 @@ Screenshots -
 
 
 Technologies Used -
+
 -- React JS – for building the dynamic user interface.
+
 -- Styled Components – for reusable and clean styles.
+
 -- JavaScript – for game logic and functionality.
+
 -- CSS – (or Styled Components) for styling the components.
+
 
 How to Play - 
 Game Rules:
