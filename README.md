@@ -7,10 +7,15 @@ Incorrect guesses result in a 2-point deduction. It's simple, fun, and visually 
 
 Features - 
 -- Select a number and roll a pair of dice.
+
 -- Earn points if your selected number matches the rolled dice number.
+
 -- Lose points (2 points) for incorrect guesses.
+
 -- Game rules are displayed in a modal for easy understanding.
+
 -- Modal can be closed by clicking outside or using the close button.
+
 -- Responsive UI built with React JS.
 
 Screenshots -
